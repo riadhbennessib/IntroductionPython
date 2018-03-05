@@ -3,8 +3,9 @@
 ## Python
 #### Introduction
 #### Variables
-#### Datatype
-#### Datastructure
+#### DataType
+#### DataStructure
+#### DataFlow
 #### Functions
 #### Modules
 ## Jupyter
