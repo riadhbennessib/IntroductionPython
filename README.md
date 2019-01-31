@@ -4,7 +4,7 @@ by riadh BENNESSIB
 
 ## Python
 
-    synthaxe
+    syntaxe
     applications
     packages
     tools
