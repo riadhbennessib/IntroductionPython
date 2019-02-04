@@ -18,7 +18,7 @@ by riadh BENNESSIB
 #### DataIO
     print input
 #### DataStructure
-    set,tuple,list
+    set,tuple,list,dict
 #### DataFlow
     if for while
 #### Functions
