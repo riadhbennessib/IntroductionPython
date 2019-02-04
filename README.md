@@ -1,6 +1,6 @@
 # Initiation à Python
-## by riadh BENNESSIB
 
+## auteur: riadh BENNESSIB
 
 #### Introduction
 
