@@ -1,15 +1,15 @@
 # Initiation à Python
 ## by riadh BENNESSIB
 
-## Python
 
+#### Introduction
+
+### Python
     syntaxe
     applications
     packages
     tools
     distributions
-
-#### Introduction
 
 #### Variables
     integer,float,string
