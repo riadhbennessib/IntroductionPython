@@ -25,7 +25,5 @@ by riadh BENNESSIB
     def
 #### Modules
     import
-## Jupyter
-#### RichContent
-#### InteractiveContent
-
+#### DataFiles
+    .txt, .csv, .json
