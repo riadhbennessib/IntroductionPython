@@ -1,6 +1,5 @@
-# Python
-by riadh BENNESSIB
-
+# Initiation à Python
+## by riadh BENNESSIB
 
 ## Python
 
