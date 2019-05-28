@@ -26,3 +26,4 @@
     import
 #### DataFiles
     .txt, .csv, .json
+### Images    
