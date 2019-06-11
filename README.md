@@ -1,29 +1,10 @@
-# Initiation à Python
+# Introduction à Python.
 
-## auteur: riadh BENNESSIB
-
-#### Introduction
-
-#### Python
-    syntaxe
-    applications
-    packages
-    tools
-    distributions
-
-#### Variables
-    integer,float,string
-    int,float,str
-#### DataIO
-    print input
-#### DataStructure
-    set,tuple,list,dict
-#### DataFlow
-    if for while
-#### Functions
-    def
-#### Modules
-    import
-#### DataFiles
-    .txt, .csv, .json
-### Images    
+1. Chapitre 01-01 DataIO
+2. Chapitre 02-01 DataType
+3. Chapitre 03-01 DataStructure
+4. Chapitre 04-01 DataFlow
+5. Chapitre 05-01 Fonctions
+6. Chapitre 06-01 Modules
+7. Chapitre 07-01 FileIO
+8. Chapitre 08-01 Images
